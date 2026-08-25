@@ -45,11 +45,7 @@ export default function App() {
         </>
       ) : (
         <>
-        <img
-          src="https://media1.tenor.com/m/1lXlC5G7QJMAAAAC/mocha-and.gif" 
-          alt="Mocha and Milk bears begging"
-          className="gif-image"
-        />
+        <div class="tenor-gif-embed" data-postid="26097824" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mocha-and-milk-bears-begging-gif-26097824">Mocha And Sticker</a>from <a href="https://tenor.com/search/mocha-stickers">Mocha Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
           <h1 className="question-text">
             के तिमी मलाई राखी बाँधिदिन्छौ?
           </h1>
